@@ -4,8 +4,7 @@
 
 ## What It Does
 
-- 📷 **AI Camera Mode** — Point your phone at your finger, get your ring size instantly
-- 🪙 **Coin Precision Mode** — Place a coin next to your finger for ±1 size accuracy  
+- 📷 **AI Camera Mode** — Point your phone at your finger, get your ring size instantly  
 - 🌍 **All major standards** — US, UK, EU, Indian & Japanese ring sizes in one tool
 - 🖨️ **Printable Ring Sizer** — Print circles at exact physical diameter and match your existing ring
 - 💯 **100% Free** — No app download, works in browser
